@@ -1,4 +1,4 @@
-Open Source Development of TheoryBoard Firmware by Irijule Inc. (irijle.com)
+Open Source Development of TheoryBoard Firmware by Irijule Inc. (irijule.com)
 
 irijule.com/patent
 
